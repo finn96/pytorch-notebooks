@@ -1,6 +1,7 @@
 name: pytorch-notebook
 dependencies:
  - python=3.8
- - pytorch
- - numpy
- - pandas
+ - pytorch::pytorch
+ - pytorch::torchvision
+ - jupyterlab
+ 
