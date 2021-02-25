@@ -4,4 +4,4 @@ dependencies:
  - pytorch::pytorch
  - pytorch::torchvision
  - jupyterlab
- 
+ - matplotlib 
